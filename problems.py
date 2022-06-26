@@ -58,3 +58,22 @@ else:
 
 #The product of a and b
 #print(a*b)
+
+#PROBLEM NUMBER 4
+#The provided code stub reads and integer, , from STDIN. For all non-negative integers i<n , print i^2.
+
+#Example
+
+#The list of non-negative integers that are less than  is . Print the square of each number on a separate line.
+
+#0
+#1
+#4
+
+#i = int(input("Please type a number: "))
+
+#if i in range(1,21):
+ #   for i in range(1, i):
+ #       print(i * i)
+#else:
+#    print("Out of range!")
