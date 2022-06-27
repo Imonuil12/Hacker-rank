@@ -77,3 +77,14 @@ else:
  #       print(i * i)
 #else:
 #    print("Out of range!")
+
+
+
+#PROBLEM NUMBER FIVE
+#n = int(input("Here: "))
+
+#if n in range(1, 151):
+#    for n in range(1, n+1):
+#        print(n)
+#else:
+#    print("Out of range!")
