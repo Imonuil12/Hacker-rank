@@ -1,8 +1,8 @@
 #PROBLEM NUMBER 22
-#name = input("Enter your name: ")
-#number = int(input("How many times? "))
-#for i in range(0, number):
-#    print(name)
+name = input("Enter your name: ")
+number = int(input("How many times? "))
+for i in range(0, number):
+    print(name)
 
 
 
