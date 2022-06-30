@@ -110,3 +110,22 @@ else:
     # modify previous number
     # set it to the current number
     #previous_num = i
+    
+    
+    
+    
+#PROBLEM NUMBER 8
+#Write a program to accept a string from the user 
+# and display characters that are present at an even index number.
+
+
+
+
+#word = input("Type: ")
+
+#print("Origional string is: ", word)
+
+#size = len(word)
+
+#for i in range(0, size -1, 2):
+#    print("idex [", i, "]", word[i], end=", ")
