@@ -129,3 +129,36 @@ else:
 
 #for i in range(0, size -1, 2):
 #    print("idex [", i, "]", word[i], end=", ")
+
+
+
+
+
+#PROBLEM NUMBER 9
+
+#word = input("Type: ")
+
+#n = int(input("From which index to print? "))
+
+#x = len(word)
+#print("The origional word is: ", word)
+
+#if n > x:
+ #   print("The index is bigger than the word. Try one more time.")
+    
+#else:
+  #  print("The word from index is: ")
+ #   for n in range(n, x):
+#        print(word[n], end="")
+
+#Second way
+#def remove_chars(word, n):
+ #   print('Original string:', word)
+  #  x = word[n:]
+   # return x
+
+#print("Removing characters from a string")
+#rint(remove_chars("hellpooo", 4))
+
+
+
