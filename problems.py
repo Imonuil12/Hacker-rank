@@ -99,3 +99,14 @@ else:
  #   print(a*b)
 #else:
 #    print(a+b)
+
+
+#PROBLEM NUMBER 7
+
+# loop from 1 to 10
+#for i in range(0, 11):
+    #x_sum = previous_num + i
+    #print("Current Number", i, "Previous Number ", previous_num, " Sum: ", previous_num + i)
+    # modify previous number
+    # set it to the current number
+    #previous_num = i
