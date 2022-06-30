@@ -1,28 +1,12 @@
-#Write a function to return True if the first and last number of 
-# a given list is same. If numbers are different then return False.
+#Iterate the given list of numbers
+# and print only those numbers which are divisible by 5
 
+list = [10, 20, 33, 46, 55]
 
-numbers_x = [6,2,3,4,5,6]
+x = len(list)
 
-numbers_y = [5,6,7,8,9,1]
-
-x = numbers_x
-y = numbers_y
-
-xcount = len(numbers_x)
-ycount = len(numbers_y)
-
-
-print("Given list: ", x)
-
-if x[0] == x[xcount-1]:
-    print("True!")
-else:
-    print("False!")
-    
-print("Given list: ", y)
-    
-if y[0] == y[ycount-1]:
-    print("True!")
-else:
-    print("False!")
+for n in range(0, x):
+    if list[n] % 5 == 0:
+        print(list[n])
+    else:
+        print("No divisable by 5")
