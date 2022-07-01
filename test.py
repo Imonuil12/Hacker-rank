@@ -1,12 +1,7 @@
-#Iterate the given list of numbers
-# and print only those numbers which are divisible by 5
+#Write a program to find how many times substring “Emma” appears in the given string.
 
-list = [10, 20, 33, 46, 55]
+str_x = "Emma is good developer. Emma is a writer"
 
-x = len(list)
+print(str_x.split())
 
-for n in range(0, x):
-    if list[n] % 5 == 0:
-        print(list[n])
-    else:
-        print("No divisable by 5")
+print(str_x.split().count("Emma"))
