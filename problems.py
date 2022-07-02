@@ -220,3 +220,12 @@ else:
 
 #for i in split_user:
  #   print("The word ",i," in this string repeats: ",user.count(i), "times.")
+ 
+ 
+ 
+ #PROBLEM NUMBER 13
+ #Print the following pattern
+#for x in range(10):
+ #   for i in range(x):
+  #      print(x, end=" ")
+   # print("\n")
