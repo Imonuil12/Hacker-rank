@@ -202,3 +202,21 @@ else:
 #print(str_x.split())
 
 #print(str_x.split().count("Emma"))
+
+
+
+
+#PROBLEM NUMBER 12
+#Write a program to find how many times substring “Emma” appears in the given string.
+
+#from timeit import repeat
+
+
+#user = input("Type any string: ")
+
+
+#split_user = user.split()
+#print(split_user)
+
+#for i in split_user:
+ #   print("The word ",i," in this string repeats: ",user.count(i), "times.")
