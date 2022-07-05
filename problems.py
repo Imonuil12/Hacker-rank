@@ -332,3 +332,15 @@ else:
 
 #area = radius**2 * math.pi
 #print(area)
+
+
+#PROBLEM 20
+
+#number1 = int(input("Enter the 1st number: "))
+#number2 = int(input("Enter the 2nd number: "))
+
+#remainder = number1 % number2
+
+#devision = number1 // number2
+
+#print(number1, "devided by", number2, "is equal to", devision, "with remaining", remainder)
