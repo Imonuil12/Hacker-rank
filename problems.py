@@ -279,3 +279,17 @@ else:
 #together = name + surname
 #length = len(together)
 #print(name, surname,".", "The length is equal to:",length)
+
+
+
+
+
+#PROBLEM NUMBER 16
+
+#name = input("Enter your name in lower case: ")
+#surname = input("Enter your surname in lower case: ")
+
+#iteled_name = name.title()
+#titeled_surname = surname.title()
+
+#print(titeled_name, titeled_surname)
