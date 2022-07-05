@@ -258,3 +258,24 @@ else:
 
 #palindrome(111)
 #palindrome(125)
+
+
+
+
+
+
+
+
+#PROBLEM NUMBER 15
+
+#name = input("Enter your name: ")
+
+#print(len(name))\
+
+
+#name = input("Enter your name: ")
+#surname = input("Enter your surname: ")
+
+#together = name + surname
+#length = len(together)
+#print(name, surname,".", "The length is equal to:",length)
