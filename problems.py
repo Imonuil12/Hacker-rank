@@ -293,3 +293,42 @@ else:
 #titeled_surname = surname.title()
 
 #print(titeled_name, titeled_surname)
+
+
+
+
+
+
+#PROBLEM NUMBER 17
+
+#line = input("Enter the first line of nurse rhyme: ")
+
+#length = len(line)
+#print(length)
+
+#starting_number = int(input("What is the starting number? "))
+#ending_number = int(input("What is the ending number? "))
+
+#print(line[starting_number:ending_number])
+
+
+
+
+
+#PROBLEM NUMBER 18
+#import math
+#number = float(input("Type a number larger than 500: "))
+
+#squareroot = math.sqrt(number)
+
+#print(round(squareroot, 2))
+
+
+
+#PROBLEM NUMBER 19
+#import math
+
+#radius = float(input("Enter readius length: "))
+
+#area = radius**2 * math.pi
+#print(area)
