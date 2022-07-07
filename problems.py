@@ -344,3 +344,33 @@ else:
 #devision = number1 // number2
 
 #print(number1, "devided by", number2, "is equal to", devision, "with remaining", remainder)
+
+
+
+
+#PROBLEM NUMBER 21
+
+#import math
+#print("1) Square \n2) Triangle")
+
+#number = int(input("Enter a number: "))
+
+#if number == 1:
+   # side_number = int(input("Enter one side: "))
+  #  area = side_number**2
+ #   print("Area is equal to:", area)
+#elif number == 2:
+    #side = int(input("Enter the triangle side: "))
+   # height = int(input("Enter the triangle height: "))
+  #  area = (1/2) * side * height
+ #   print("The triangle area is equal to: ", area)
+#else:
+    #print("Sorry you typed something wrong!")
+    
+    
+    
+#PROBLEM NUMBER 22
+#name = input("Enter your name: ")
+#number = int(input("How many times? "))
+#for i in range(0, number):
+#    print(name)
