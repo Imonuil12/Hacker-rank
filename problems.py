@@ -411,5 +411,14 @@ else:
 #else:
     #for i in range(0,3):
         #print("Too high!")
+        
+        
+#PROBLEM NUMBER 26
+
+#number = int(input("Enter a number: "))
+
+#if number < 50:
+#    for i in range (50, number-1, -1):
+#        print(i)
 
     
