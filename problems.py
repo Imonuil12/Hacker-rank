@@ -386,3 +386,30 @@ else:
 #for x in range(0,number):
     #for i in name:
         #print(i)
+        
+        
+#PROBLEM NUMBER 24
+
+#number = int(input("Enter a number between 1 and 12: "))
+
+#if number in range(0,13):
+#    for i in range(0, number):
+#        print(i, "x", number, "=", i*number)
+#else:
+#    print("Out of range")
+
+
+
+#PROBLEM NUMBER 25
+
+#name = input("Enter your name: ")
+#number = int(input("Enter a number: "))
+
+#if number < 10:
+#    for i in range(0,number):
+#        print(name)
+#else:
+    #for i in range(0,3):
+        #print("Too high!")
+
+    
