@@ -374,3 +374,15 @@ else:
 #number = int(input("How many times? "))
 #for i in range(0, number):
 #    print(name)
+
+
+
+
+#PROBLEM NUMBER 23
+
+#name = input("Enter your name: ")
+#number = int(input("Enter number: "))
+
+#for x in range(0,number):
+    #for i in name:
+        #print(i)
