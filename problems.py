@@ -486,3 +486,12 @@ else:
     #num = int(input("Enter a random number: "))
     #number = num + number
     #print(number)
+    
+    
+    
+#PROBLEM NUMBER 31
+
+#num = 0
+#while num <= 5:
+ #   num = int(input("Enter a random number: "))
+#print("The last number you entered was", num)
