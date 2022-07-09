@@ -462,3 +462,15 @@ else:
     #number_down = int(input("Enter till which number to count down from 20? "))
     #for i in range(20, number_down-1, -1):
       #  print(i)   
+      
+      
+#PROBLEM NUMBER 29
+
+#number = int(input("How many people do you want to invite? "))
+
+#if number < 10:
+#    for i in range(1,number+1):
+#        name = input("Enter the name of the person: ")
+#        print(name, "has been invited.")
+#else:
+   # print("Too many people!")
