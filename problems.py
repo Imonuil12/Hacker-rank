@@ -474,3 +474,15 @@ else:
 #        print(name, "has been invited.")
 #else:
    # print("Too many people!")
+   
+
+
+
+#PROBLEM 30
+
+#number = 0
+
+#while number < 50:
+    #num = int(input("Enter a random number: "))
+    #number = num + number
+    #print(number)
