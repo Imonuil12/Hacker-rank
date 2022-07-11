@@ -525,3 +525,66 @@ else:
 #        total = num1 + num2
 #        again = input("Do you want to add another number? ")
 #print("The total is ", total)
+
+
+
+#PROBLEM NUMBER 33
+
+#count = 0
+#name = input("Who do you want to invite to party? ")
+#print(name, "has now been invited!")
+#count = count + 1
+#invite = "y"
+#invite = input("Do you want to invite someone else? ")
+
+#while invite == "y":
+#    name1 = input("Who else? ")
+#    count = count + 1
+#    print(name1, "has been invited as well!")
+#    invite = input("Do you want to invite someone else? ")
+#print(count, "people have been invited!")
+
+#Second way
+#again = "y"
+#count = 0
+
+#while again == "y":
+#    name = input("Who do you want to invite to party? ")
+#    count = count +1
+#    again = input("Do you want to invite someone else? ")
+#print("You have", count, "people coming to your party!")
+
+
+#PROBLEM NUMBER 34
+
+#compnum = 50
+
+#count = 0
+
+#guess = int(input("Guess the number: "))
+
+#while guess != compnum:
+#    if guess < compnum:
+#        print("Too low")
+#        guess = int(input("Guess the number: "))
+#        count = count +1
+#    elif guess > compnum:
+#        print("Too high")
+#        guess = int(input("Guess the number: "))
+#        count = count +1
+#print("You got it! It took you", count, "guesses.")
+        
+#Another way
+
+#compnum = 50
+#count =1
+#guess = int(input("Guess the number: "))
+
+#while guess != compnum:
+  #  if guess < compnum:
+  #      print("Too low!")
+ #   else:
+ #       print("Too high!")
+ #   count = count + 1
+#    guess = int(input("Have another guess: "))
+#print("Well done! You guessed it in", count, "tries.")
