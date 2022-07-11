@@ -588,3 +588,28 @@ else:
  #   count = count + 1
 #    guess = int(input("Have another guess: "))
 #print("Well done! You guessed it in", count, "tries.")
+
+
+#PROBLEM NUMBER 35
+
+#number = int(input('Please enter a number between 10 and 20: '))
+
+#if number < 10:
+#    print("Too low!")
+#elif number > 20:
+#    print("Too high!")
+#else:
+#    print("Thank you!")
+#number = int(input('Try one more time: '))
+
+#Another solution
+
+#number = int(input("Enter a number between 10 and 20: "))
+
+#while number < 10 or number > 20:
+#    if number <10:
+#        print("Too low!")
+#    else:
+#        print("Too high!")
+#    number = int(input("Try one more time! "))
+#print("Thank you!")
