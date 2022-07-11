@@ -12,12 +12,12 @@
 #    invite = input("Do you want to invite someone else? ")
 #print(count, "people have been invited!")
 
+#Second way
+#again = "y"
+#count = 0
 
-again = "y"
-count = 0
-
-while again == "y":
-    name = input("Who do you want to invite to party? ")
-    count = count +1
-    again = input("Do you want to invite someone else? ")
-print("You have", count, "people coming to your party!")
+#while again == "y":
+#    name = input("Who do you want to invite to party? ")
+#    count = count +1
+#    again = input("Do you want to invite someone else? ")
+#print("You have", count, "people coming to your party!")
