@@ -638,3 +638,38 @@ else:
 #        while answer != num:
 #            answer = int(input("No, try again: "))
 #print("There will be", num, "green bottles hanging on the wall.")
+
+#PROBLEM NUMBER 37
+
+#import random
+
+#num = random.randint(0, 100)
+#print(num)
+
+#PROBLEM NUMBER 38
+#import random
+
+#fruit = random.choice(["apple", "bannana", "charry", "grapes", "lemon"])
+#print(fruit)
+
+
+#PROBLEM NUMBER 38
+
+#Randomly choose either heads or tails (“h” or “t”). Ask
+#the user to make their choice. If their choice is the same
+#as the randomly selected value, display the message
+#“You win”, otherwise display “Bad luck”. At the end, tell
+#the user if the computer selected heads or tails.
+
+#import random
+
+#coin = random.choice(["head", "tails"])
+#guess = input("Choose heads or tails: ")
+#if guess == coin:
+#    print("You win!")
+#else:
+#    print("Bad luck!")
+#if coin == "head":
+#    print("It was heads")
+#else:
+#    print("It was tails") 
