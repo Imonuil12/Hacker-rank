@@ -682,14 +682,28 @@ else:
 #otherwise tell them if they are too high or too low and ask them to pick a
 #second number. If they guess correctly on their second guess, display
 #“Correct”, otherwise display “You lose”.
+
 #import random
 
-#number = random.randint(1,5)
-#choice = input("Guess a number between 1 and 5: ")
+#num = random.randint(1,5)
 
-#if choice == number:
+#guess = int(input("Pick a number between 1 and 5: "))
+
+#if guess == num:
 #    print("You win!")
-#else:
-#    print("You loose!")
-    
-#print("Computer chose", number)
+#elif guess > num:
+#    print("Too high!")
+#    guess = int(input("Guess again: "))
+#    if guess == num:
+#        print("Correct!")
+#    else:
+#        print("You loose!")
+#elif guess < num:
+#    print("Too low!")
+#    guess = int(input("Guess again: "))
+#    if guess == num:
+#        print("You win!")
+#    else:
+#        print("You loose!") 
+#        
+#print("The number was ", num)
