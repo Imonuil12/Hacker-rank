@@ -24,5 +24,5 @@
 
 #turtle.exitonclick()
 
-
+print("Hello")
 
